@@ -1,0 +1,6 @@
+dash>=4.3
+flask>=3.1
+plotly>=6.0
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
